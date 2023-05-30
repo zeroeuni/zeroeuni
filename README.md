@@ -10,9 +10,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Java&logoColor=white" />
 	<br><br><br>
-	
- 💖제 벨로그 입니다아! 💖<br> 
-	https://velog.io/@zeroeuni
 
 
 </div>
